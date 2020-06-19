@@ -8,9 +8,8 @@
     "express": "^4.17.1",
     "pug": "^3.0.0"
   },
-  "devDependencies": {},
   "scripts": {
-    "start": "SET NODE_ENV & node server",
+    "start": "SET NODE_ENV=production & node app",
     "dev": "nodemon server"
   },
   "author": "Jesse Sawyer",
