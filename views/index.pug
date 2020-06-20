@@ -5,10 +5,7 @@ block content
     div
 
       //- Add a title or heading like My Portfolio, or Hey, Potential Employers, or Let's make the web great together! 
-      if heading
-        h1= heading
-      else
-        h1 there is no header. 
+      h1 My Portfolio
 
       //- Add a description for your portfolio, what this project is, it's purpose, what it's supposed to accomplish, etc. 
       p.lead.text-light
@@ -23,8 +20,9 @@ block content
       
       //- Here's what the Pug for each project example should look like. 
 
-      .cell
-        a(href='#')
-          img.thumbnail(src='https://placehold.it/550x550')
-          h5 Title
+      each image in images
+        .cell
+          a(href=`/project/:${image.id}`)
+            img.thumbnail(src=`/static${image.image_urls}`)
+            h5= image.project_name
       

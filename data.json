@@ -4,28 +4,49 @@
         "projects": [
             {
                 "id": "0",
-                "hint": "It starts with a \"J\"",
-                "answer": "JavaScript"
+                "project_name": "API Directory",
+                "description": "Public API for employees",
+                "technologies": ["JavaScript, CSS, HTML, API"],
+                "live_link": "https://jessebsawyer.github.io/PublicAPIRequests/",
+                "github_link": "https://github.com/jessebsawyer/PublicAPIRequests.git",
+                "image_urls": "/images/api-directory.png"
+                
             },
             {
-                "id": "What is one way a website can store data in a user's browser?",
-                "hint": "They are delicious with milk",
-                "answer": "Cookies"
+                "id": "1",
+                "project_name": "Random Quote",
+                "description": "Get a random quote",
+                "technologies": "[JavaScript, CSS, HTML]",
+                "live_link": "https://jessebsawyer.github.io/RandomQuoteGenerator/",
+                "github_link": "https://github.com/jessebsawyer/RandomQuoteGenerator.git",
+                "image_urls": "/images/api-directory.png"
             },
             {
-                "id": "What is a common way to shorten the response object's name inside middleware?",
-                "hint": "It has the same abbreviation as \"resolution\"",
-                "answer": "res"
+                "id": "2",
+                "project_name": "List Pagination",
+                "description": "Paginate through a list of people.",
+                "technologies": "[JavaScript, CSS, HTML]",
+                "live_link": "https://jessebsawyer.github.io/List-Pagination/",
+                "github_link": "https://github.com/jessebsawyer/List-Pagination.git",
+                "image_urls": "/images/api-directory.png"
             },
             {
-                "id": "How many different values can booleans have?",
-                "hint": "Think: binary",
-                "answer": "2"
+                "id": "3",
+                "project_name": "Phrase Guesser",
+                "description": "Guess a phrase before running out of chances.",
+                "technologies": "[JavaScript, CSS, HTML]",
+                "live_link": "https://jessebsawyer.github.io/OOPGameShowApp/",
+                "github_link": "https://github.com/jessebsawyer/OOPGameShowApp.git",
+                "image_urls": "/images/phrase-game.png"
             },
             {
-                "id": "Which HTML element can contain JavaScript?",
-                "hint": "It starts with an \"s\"",
-                "answer": "<script>"
+                "id": "4",
+                "project_name": "Form Validation",
+                "description": "Validate form info",
+                "technologies": "[JavaScript, CSS, HTML]",
+                "live_link": "https://jessebsawyer.github.io/FormValidation/",
+                "github_link": "https://github.com/jessebsawyer/FormValidation.git",
+                "image_urls": "/images/form.png"
             }
         ]
     }
