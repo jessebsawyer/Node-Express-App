@@ -22,7 +22,7 @@ block content
 
       each image in images
         .cell
-          a(href=`/project/:${image.id}`)
+          a(href=`/project/${image.id}`)
             img.thumbnail(src=`/static${image.image_urls}`)
             h5= image.project_name
       

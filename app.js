@@ -26,7 +26,9 @@ app.get('/about', (req, res) => {
     res.render('about');
 })
 app.get('/project/:id', (req, res) => {
-    res.render('project', {project: projects[req.params.id]});
+    res.render('project', {project: projects[req.params.id], tech: projects[req.params.id].technologies});
+    console.log(req.params.id);
+    console.log(tech);
 })
 
 // Listen in Port 3000
