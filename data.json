@@ -6,47 +6,47 @@
                 "id": "0",
                 "project_name": "API Directory",
                 "description": "Public API for employees",
-                "technologies": ["JavaScript, CSS, HTML, API"],
+                "technologies": ["JavaScript", "CSS", "HTML", "API"],
                 "live_link": "https://jessebsawyer.github.io/PublicAPIRequests/",
                 "github_link": "https://github.com/jessebsawyer/PublicAPIRequests.git",
-                "image_urls": "/images/api-directory.png"
+                "image_urls": ["/images/api-directory.png"]
                 
             },
             {
                 "id": "1",
                 "project_name": "Random Quote",
-                "description": "Get a random quote",
-                "technologies": "[JavaScript, CSS, HTML]",
+                "description": "Get a random quote and colour, every time the button is clicked.",
+                "technologies": ["Javascript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/RandomQuoteGenerator/",
                 "github_link": "https://github.com/jessebsawyer/RandomQuoteGenerator.git",
-                "image_urls": "/images/api-directory.png"
+                "image_urls": ["/images/randomquote.png", "/images/randomquote-2.png"]
             },
             {
                 "id": "2",
                 "project_name": "List Pagination",
                 "description": "Paginate through a list of people.",
-                "technologies": "[JavaScript, CSS, HTML]",
+                "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/List-Pagination/",
                 "github_link": "https://github.com/jessebsawyer/List-Pagination.git",
-                "image_urls": "/images/api-directory.png"
+                "image_urls": ["/images/api-directory.png"]
             },
             {
                 "id": "3",
                 "project_name": "Phrase Guesser",
                 "description": "Guess a phrase before running out of chances.",
-                "technologies": "[JavaScript, CSS, HTML]",
+                "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/OOPGameShowApp/",
                 "github_link": "https://github.com/jessebsawyer/OOPGameShowApp.git",
-                "image_urls": "/images/phrase-game.png"
+                "image_urls": ["/images/phrase-game.png"]
             },
             {
                 "id": "4",
                 "project_name": "Form Validation",
                 "description": "Validate form info",
-                "technologies": "[JavaScript, CSS, HTML]",
+                "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/FormValidation/",
                 "github_link": "https://github.com/jessebsawyer/FormValidation.git",
-                "image_urls": "/images/form.png"
+                "image_urls": ["/images/form.png"]
             }
         ]
     }
