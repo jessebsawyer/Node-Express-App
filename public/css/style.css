@@ -66,6 +66,7 @@ a:hover{
   .portfolio-me p{
     font-size: 14px;
     color: darkgray;
+    font-weight: bold;
   }
 
   .portfolio-me a{
