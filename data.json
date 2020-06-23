@@ -9,7 +9,7 @@
                 "technologies": ["JavaScript", "CSS", "HTML", "API"],
                 "live_link": "https://jessebsawyer.github.io/PublicAPIRequests/",
                 "github_link": "https://github.com/jessebsawyer/PublicAPIRequests.git",
-                "image_urls": ["/images/api-directory.png"]
+                "image_urls": ["/images/api-1.png", "/images/api-2.png", "/images/api-3.png"]
                 
             },
             {
@@ -19,7 +19,7 @@
                 "technologies": ["Javascript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/RandomQuoteGenerator/",
                 "github_link": "https://github.com/jessebsawyer/RandomQuoteGenerator.git",
-                "image_urls": ["/images/randomquote.png", "/images/randomquote-2.png"]
+                "image_urls": ["/images/randomquote-3.png", "/images/randomquote.png", "/images/randomquote-2.png"]
             },
             {
                 "id": "2",
@@ -28,7 +28,7 @@
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/List-Pagination/",
                 "github_link": "https://github.com/jessebsawyer/List-Pagination.git",
-                "image_urls": ["/images/api-directory.png"]
+                "image_urls": [""]
             },
             {
                 "id": "3",
@@ -37,7 +37,7 @@
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/OOPGameShowApp/",
                 "github_link": "https://github.com/jessebsawyer/OOPGameShowApp.git",
-                "image_urls": ["/images/phrase-game.png"]
+                "image_urls": [""]
             },
             {
                 "id": "4",
@@ -46,7 +46,7 @@
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/FormValidation/",
                 "github_link": "https://github.com/jessebsawyer/FormValidation.git",
-                "image_urls": ["/images/form.png"]
+                "image_urls": [""]
             }
         ]
     }

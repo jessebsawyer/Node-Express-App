@@ -31,7 +31,7 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: steelblue;
 }
 
 .button:hover{
@@ -58,20 +58,20 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: steelblue;
   color: #fff;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    color: darkgray;
   }
 
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: #333;
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -142,7 +142,8 @@ a:hover{
 
 .portfolio-project li{
   font-size: 13px;
-  color: #444;
+  color: #333;
+  font-weight: bold;
 }
 
 .portfolio-bio{
