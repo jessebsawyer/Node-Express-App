@@ -5,7 +5,7 @@
             {
                 "id": "0",
                 "project_name": "API Directory",
-                "description": "Public API for employees",
+                "description": "Access public API to create fake employee directorty. Includes modals and a search bar for filtering.",
                 "technologies": ["JavaScript", "CSS", "HTML", "API"],
                 "live_link": "https://jessebsawyer.github.io/PublicAPIRequests/",
                 "github_link": "https://github.com/jessebsawyer/PublicAPIRequests.git",
@@ -24,11 +24,11 @@
             {
                 "id": "2",
                 "project_name": "List Pagination",
-                "description": "Paginate through a list of people.",
+                "description": "Paginate through a list of people using the buttons at the bottom and the search bar.",
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/List-Pagination/",
                 "github_link": "https://github.com/jessebsawyer/List-Pagination.git",
-                "image_urls": [""]
+                "image_urls": ["/images/list-pagination-1.png", "/images/list-pagination-2.png", "/images/list-pagination-3.png"]
             },
             {
                 "id": "3",
@@ -37,16 +37,16 @@
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/OOPGameShowApp/",
                 "github_link": "https://github.com/jessebsawyer/OOPGameShowApp.git",
-                "image_urls": [""]
+                "image_urls": ["/images/phrase-game-1.png", "/images/phrase-game-2.png", "/images/phrase-game-3.png"]
             },
             {
                 "id": "4",
                 "project_name": "Form Validation",
-                "description": "Validate form info",
+                "description": "Validate form information. Will not allow submission unless all required fields are filled in or checked accordingly.",
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/FormValidation/",
                 "github_link": "https://github.com/jessebsawyer/FormValidation.git",
-                "image_urls": [""]
+                "image_urls": ["/images/form-1.png", "/images/form-2.png", "/images/form-3.png"]
             }
         ]
     }
