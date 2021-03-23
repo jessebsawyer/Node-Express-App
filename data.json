@@ -8,7 +8,7 @@
                 "description": "Access public API to create an employee directory. Includes modals and a search bar for filtering.",
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/PublicAPIRequests/",
-                "github_link": "https://github.com/jessebsawyer/PublicAPIRequests.git",
+                "github_link": "https://github.com/jessebsawyer/PublicAPIRequests",
                 "image_urls": ["/images/api-1.png", "/images/api-2.png", "/images/api-3.png"]
                 
             },
@@ -18,7 +18,7 @@
                 "description": "This is my very first JavaScript Project! Get a random quote and colour, every time the button is clicked. Quotes also change automatically.",
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/RandomQuoteGenerator/",
-                "github_link": "https://github.com/jessebsawyer/RandomQuoteGenerator.git",
+                "github_link": "https://github.com/jessebsawyer/RandomQuoteGenerator",
                 "image_urls": ["/images/randomquote-3.png", "/images/randomquote.png", "/images/randomquote-2.png"]
             },
             {
@@ -27,7 +27,7 @@
                 "description": "Paginate through a list of people using the buttons at the bottom and the search bar.",
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/List-Pagination/",
-                "github_link": "https://github.com/jessebsawyer/List-Pagination.git",
+                "github_link": "https://github.com/jessebsawyer/List-Pagination",
                 "image_urls": ["/images/list-pagination-1.png", "/images/list-pagination-2.png", "/images/list-pagination-3.png"]
             },
             {
@@ -36,7 +36,7 @@
                 "description": "Guess a phrase before running out of chances. You get five lives!",
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/OOPGameShowApp/",
-                "github_link": "https://github.com/jessebsawyer/OOPGameShowApp.git",
+                "github_link": "https://github.com/jessebsawyer/OOPGameShowApp",
                 "image_urls": ["/images/phrase-game-1.png", "/images/phrase-game-2.png", "/images/phrase-game-3.png"]
             },
             {
@@ -45,7 +45,7 @@
                 "description": "Validate form information. Will not allow submission unless all required fields are filled in or checked accordingly.",
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/FormValidation/",
-                "github_link": "https://github.com/jessebsawyer/FormValidation.git",
+                "github_link": "https://github.com/jessebsawyer/FormValidation",
                 "image_urls": ["/images/form-1.png", "/images/form-2.png", "/images/form-3.png"]
             },
             {
