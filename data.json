@@ -19,7 +19,7 @@
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/RandomQuoteGenerator/",
                 "github_link": "https://github.com/jessebsawyer/RandomQuoteGenerator",
-                "image_urls": ["public/images/randomquote-3.png", "/images/randomquote.png", "/images/randomquote-2.png"]
+                "image_urls": ["/public/images/randomquote-3.png", "/images/randomquote.png", "/images/randomquote-2.png"]
             },
             {
                 "id": "2",
