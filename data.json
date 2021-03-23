@@ -5,8 +5,8 @@
             {
                 "id": "0",
                 "project_name": "API Directory",
-                "description": "Access public API to create fake employee directorty. Includes modals and a search bar for filtering.",
-                "technologies": ["JavaScript", "CSS", "HTML", "API"],
+                "description": "Access public API to create an employee directory. Includes modals and a search bar for filtering.",
+                "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/PublicAPIRequests/",
                 "github_link": "https://github.com/jessebsawyer/PublicAPIRequests.git",
                 "image_urls": ["/images/api-1.png", "/images/api-2.png", "/images/api-3.png"]
@@ -15,7 +15,7 @@
             {
                 "id": "1",
                 "project_name": "Random Quote",
-                "description": "This is my very first JavaScript Project! Get a random quote and colour, every time the button is clicked.",
+                "description": "This is my very first JavaScript Project! Get a random quote and colour, every time the button is clicked. Quotes also change automatically.",
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/RandomQuoteGenerator/",
                 "github_link": "https://github.com/jessebsawyer/RandomQuoteGenerator.git",
@@ -33,7 +33,7 @@
             {
                 "id": "3",
                 "project_name": "Phrase Guesser",
-                "description": "Guess a phrase before running out of chances.",
+                "description": "Guess a phrase before running out of chances. You get five lives!",
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/OOPGameShowApp/",
                 "github_link": "https://github.com/jessebsawyer/OOPGameShowApp.git",
@@ -59,8 +59,17 @@
             },
             {
                 "id": "6",
-                "project_name": "Meal Prep Ecommerce Site",
-                "description": "Currently in production and fully functional, I built this project for a friend of mine. Clients can create an acount and make orders for weekly meals. As an admin, you have the ability to see your orders, add new products and edit different users. I used the MERN stack to bring this site to life.",
+                "project_name": "Sequelize Library Database",
+                "description": "Library created using Sequelize and Node.js. Create, read, update and delete books from the database.",
+                "technologies": ["SQL", "CSS", "Node.js"],
+                "live_link": "https://sqllibrary.herokuapp.com/",
+                "github_link": "https://github.com/jessebsawyer/Sequelize-Library-Database",
+                "image_urls": ["/images/sql-photo-main.png", "/images/sql-photo-new.png", "/images/sql-photo-update.png"]
+            },
+            {
+                "id": "7",
+                "project_name": "Full Stack Ecommerce Site",
+                "description": "Currently in production and fully functional, this site was created for a local business and deployed via DigitalOcean. Clients can create an acount and make orders for weekly meals. As an admin, you have the ability to see your orders, add new products and edit different users. I used the MERN stack coupled with Redux to bring this site to life.",
                 "technologies": ["MongoDB","Express", "React", "Node.js", "CSS"],
                 "live_link": "https://jcmeals.com/",
                 "github_link": "https://github.com/jessebsawyer/JungleCafe",
