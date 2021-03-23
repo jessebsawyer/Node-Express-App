@@ -15,8 +15,8 @@
             {
                 "id": "1",
                 "project_name": "Random Quote",
-                "description": "Get a random quote and colour, every time the button is clicked.",
-                "technologies": ["Javascript", "CSS", "HTML"],
+                "description": "This is my very first JavaScript Project! Get a random quote and colour, every time the button is clicked.",
+                "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/RandomQuoteGenerator/",
                 "github_link": "https://github.com/jessebsawyer/RandomQuoteGenerator.git",
                 "image_urls": ["/images/randomquote-3.png", "/images/randomquote.png", "/images/randomquote-2.png"]
@@ -47,6 +47,24 @@
                 "live_link": "https://jessebsawyer.github.io/FormValidation/",
                 "github_link": "https://github.com/jessebsawyer/FormValidation.git",
                 "image_urls": ["/images/form-1.png", "/images/form-2.png", "/images/form-3.png"]
+            },
+            {
+                "id": "5",
+                "project_name": "React Gallery App",
+                "description": "Choose photos from different categories or search for your own!",
+                "technologies": ["React", "CSS"],
+                "live_link": "https://jessesawyerreactgalleryapp.netlify.app/",
+                "github_link": "https://github.com/jessebsawyer/React-Gallery-App",
+                "image_urls": ["/images/react-photo-1.png", "/images/react-photo-2.png", "/images/react-photo-3.png"]
+            },
+            {
+                "id": "6",
+                "project_name": "Meal Prep Ecommerce Site",
+                "description": "Currently in production and fully functional, I built this project for a friend of mine. Clients can create an acount and make orders for weekly meals. As an admin, you have the ability to see your orders, add new products and edit different users. I used the MERN stack to bring this site to life.",
+                "technologies": ["MongoDB","Express", "React", "Node.js", "CSS"],
+                "live_link": "https://jcmeals.com/",
+                "github_link": "https://github.com/jessebsawyer/JungleCafe",
+                "image_urls": ["/images/junglecafe-photo-home.png", "/images/junglecafe-photo-meals.png", "/images/junglecafe-photo-products.png"]
             }
         ]
     }
