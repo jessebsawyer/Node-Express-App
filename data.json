@@ -19,7 +19,7 @@
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://jessebsawyer.github.io/RandomQuoteGenerator/",
                 "github_link": "https://github.com/jessebsawyer/RandomQuoteGenerator",
-                "image_urls": ["images/randomquote-3.png", "/images/randomquote.png", "/images/randomquote-2.png"]
+                "image_urls": ["/images/randomquote-3.png", "/images/randomquote.png", "/images/randomquote-2.png"]
             },
             {
                 "id": "2",
@@ -73,7 +73,7 @@
                 "technologies": ["MongoDB","Express", "React", "Node.js", "CSS"],
                 "live_link": "https://jcmeals.com/",
                 "github_link": "https://github.com/jessebsawyer/JungleCafe",
-                "image_urls": ["/images/junglecafe-photo-home.png", "/images/junglecafe-photo-meals.png", "/images/junglecafe-photo-products.png"]
+                "image_urls": ["/images/test-photo.jpg", "/images/junglecafe-photo-meals.png", "/images/junglecafe-photo-products.png"]
             }
         ]
     }
